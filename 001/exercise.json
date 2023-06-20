@@ -1,0 +1,5 @@
+[
+  {"firstName":"Yulma","lastName":"Nutbeam","age":18,"history": [{"disease": "AIDS", "treatment": "paracetamol"}]},
+  {"firstName":"Becky","lastName":"Tapenden","age":49,"history": [{"disease": "Gripe", "treatment": "aspirina"}]},
+  {"firstName":"Kimberlyn","lastName":"Huccaby","age":27,"history": [{"disease": "Cancer", "treatment": "none"}]}
+]
